@@ -1,0 +1,38 @@
+body{
+    background-color: linear-gradient(red,magenta,purple,blue,aqua,aquamarine,lime);
+}
+h1{
+font-family:cursive;
+font-style: normal;
+font-weight: 900;
+
+}
+h4{
+font-weight: bolder;
+color: rgb(225, 127, 255);
+font-size:25px;;
+font-family:fantasy;
+
+}
+#camera{
+height:350px;
+width:500px;
+border-color:aquamarine;
+
+}
+.result1{
+width:300;
+border-radius: 50%;
+
+}
+.result2{
+width:300;
+border-radius: 50%;
+    
+    }
+.result3{
+width:300;
+border-radius: 50%;
+
+}
+
